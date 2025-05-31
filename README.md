@@ -1,6 +1,6 @@
 # Big_Data_EX_03
 
-# EX_03 - Visualize data using basic plotting techniques in Python.
+# EX_03 - Visualize data using basic plotting techniques in Python
 
 ## Aim:
 
